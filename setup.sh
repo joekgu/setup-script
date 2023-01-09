@@ -1,6 +1,6 @@
 #!/bin/bash
 
-USER_DIR="/Users/johangunnarsson"
+USER_DIR="/Users/your_username"
 
 echo "Creating an SSH key for you..."
 #ssh-keygen -t rsa
